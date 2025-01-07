@@ -1,7 +1,27 @@
 
 ![genesis_logo.png](images/genesis_logo.png)
 
+---
+
+# **Sections 📚**
+
+- 📖 **[Genesis, c'est quoi ?](#-genesis-cest-quoi)**  
+- 🎯 **[Objectif du projet](#-objectif-du-projet)**  
+- 🛠️ **[Fonctionnalités](#-fonctionnalités)**  
+- 🔧 **[Technologies utilisées](#-technologies-utilisées)**  
+- 🚀 **[Comment utiliser le projet](#-comment-utiliser-le-projet)**  
+- 🎥 **[Exemple d'utilisation](#-exemple-dutilisation)**  
+- 🤝 **[Contribuer](#-contribuer)**  
+- 👤 **[Auteurs](#-auteurs)**  
+- 📜 **[Licence](#-licence)**  
+- 🙏 **[Remerciements](#-remerciements)**  
+- 🌐 **[Live Example](#-live-example)**  
+  Pour voir un exemple en direct, [clique ici](#).
+
+---
+
 # **Genesis** 
+
 Ce projet a pour but de créer une interface utilisateur (UI) pour tester la puissance de **Genesis**, une plateforme de simulation physique dédiée à la robotique, à l'IA embarque (Embodied AI) et à l'IA physique (Physical AI).
 
 ---
@@ -21,7 +41,7 @@ Genesis est conçu pour **abaisser les barrières** de la simulation physique et
 
 ---
 
-# **Objectif du projet**
+## 🎯 **Objectif du projet**
 
 L'objectif de ce projet est de créer une **interface utilisateur intuitive** permettant aux utilisateurs de :
 
@@ -31,7 +51,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## **Fonctionnalités**
+## 🛠️ **Fonctionnalités**
 
 - **Saisie de prompt** : Les utilisateurs peuvent décrire la simulation qu'ils souhaitent voir.
 - **Génération de vidéos** : Appel de l'API Genesis pour créer des simulations basées sur le prompt.
@@ -40,7 +60,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## **Technologies utilisées**
+## 🔧 **Technologies utilisées**
 
 - **Frontend** : React (pour l'interface utilisateur).
 - **Backend** : Flask (pour gérer les appels à Genesis et Cloudinary).
@@ -49,7 +69,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## **Comment utiliser le projet**
+## 🚀 **Comment utiliser le projet**
 
 ### **Prérequis**
 
@@ -103,7 +123,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## **Exemple d'utilisation**
+## 🎥 **Exemple d'utilisation**
 
 1. **Saisir un prompt** : Par exemple, "Un drone qui survole une forêt".
 2. **Cliquer sur "Générer"** : La simulation est créée par Genesis et sauvegardée sur Cloudinary.
@@ -111,7 +131,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## **Contribuer**
+## 🤝 **Contribuer**
 
 Les contributions sont les bienvenues ! Si tu souhaites améliorer ce projet, suis ces étapes :
 
@@ -123,20 +143,28 @@ Les contributions sont les bienvenues ! Si tu souhaites améliorer ce projet, su
 
 ---
 
-## **Auteurs**
+## 👤 **Auteurs**
 
 - [Seny Toutou Diedhiou](https://setoudie.github.io)
 
 ---
 
-## **Licence**
+## 📜 **Licence**
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
-## **Remerciements**
+## 🙏 **Remerciements**
 
 - Merci à l'équipe de **Genesis** pour leur incroyable plateforme.
 - Merci à **Cloudinary** pour leur service de stockage de médias.
 - Merci à la communauté open-source pour les outils et les ressources.
+
+---
+
+## 🌐 **Live Example**
+
+Pour voir un exemple en direct, [clique ici](#).
+
+---
