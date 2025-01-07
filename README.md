@@ -5,17 +5,17 @@
 
 # **Sections 📚**
 
-- 📖 **[Genesis, c'est quoi ?](#-genesis-cest-quoi)**  
-- 🎯 **[Objectif du projet](#-objectif-du-projet)**  
-- 🛠️ **[Fonctionnalités](#-fonctionnalités)**  
-- 🔧 **[Technologies utilisées](#-technologies-utilisées)**  
-- 🚀 **[Comment utiliser le projet](#-comment-utiliser-le-projet)**  
-- 🎥 **[Exemple d'utilisation](#-exemple-dutilisation)**  
-- 🤝 **[Contribuer](#-contribuer)**  
-- 👤 **[Auteurs](#-auteurs)**  
-- 📜 **[Licence](#-licence)**  
-- 🙏 **[Remerciements](#-remerciements)**  
-- 🌐 **[Live Example](#-live-example)**  
+- 📖 **[Genesis, c'est quoi ?](#genesis-cest-quoi)**  
+- 🎯 **[Objectif du projet](#objectif-du-projet)**  
+- 🛠️ **[Fonctionnalités](#fonctionnalites)**  
+- 🔧 **[Technologies utilisées](#technologies-utilisees)**  
+- 🚀 **[Comment utiliser le projet](#comment-utiliser-le-projet)**  
+- 🎥 **[Exemple d'utilisation](#exemple-dutilisation)**  
+- 🤝 **[Contribuer](#contribuer)**  
+- 👤 **[Auteurs](#auteurs)**  
+- 📜 **[Licence](#licence)**  
+- 🙏 **[Remerciements](#remerciements)**  
+- 🌐 **[Live Example](#live-example)**  
   Pour voir un exemple en direct, [clique ici](#).
 
 ---
@@ -26,7 +26,7 @@ Ce projet a pour but de créer une interface utilisateur (UI) pour tester la pui
 
 ---
 
-## 💡 **Genesis, c'est quoi ?**
+<h2 id="genesis-cest-quoi">💡 Genesis, c'est quoi ?</h2>
 
 Genesis est une plateforme de simulation innovante qui combine plusieurs technologies de pointe :
 
@@ -41,7 +41,7 @@ Genesis est conçu pour **abaisser les barrières** de la simulation physique et
 
 ---
 
-## 🎯 **Objectif du projet**
+<h1 id="objectif-du-projet">🎯 Objectif du projet</h1>
 
 L'objectif de ce projet est de créer une **interface utilisateur intuitive** permettant aux utilisateurs de :
 
@@ -51,7 +51,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## 🛠️ **Fonctionnalités**
+<h1 id="fonctionnalites">🛠️ Fonctionnalités</h1>
 
 - **Saisie de prompt** : Les utilisateurs peuvent décrire la simulation qu'ils souhaitent voir.
 - **Génération de vidéos** : Appel de l'API Genesis pour créer des simulations basées sur le prompt.
@@ -60,7 +60,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## 🔧 **Technologies utilisées**
+<h1 id="technologies-utilisees">🔧 Technologies utilisées</h1>
 
 - **Frontend** : React (pour l'interface utilisateur).
 - **Backend** : Flask (pour gérer les appels à Genesis et Cloudinary).
@@ -69,7 +69,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## 🚀 **Comment utiliser le projet**
+<h1 id="comment-utiliser-le-projet">🚀 Comment utiliser le projet</h1>
 
 ### **Prérequis**
 
@@ -123,7 +123,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## 🎥 **Exemple d'utilisation**
+<h1 id="exemple-dutilisation">🎥 Exemple d'utilisation</h1>
 
 1. **Saisir un prompt** : Par exemple, "Un drone qui survole une forêt".
 2. **Cliquer sur "Générer"** : La simulation est créée par Genesis et sauvegardée sur Cloudinary.
@@ -131,7 +131,7 @@ L'objectif de ce projet est de créer une **interface utilisateur intuitive** pe
 
 ---
 
-## 🤝 **Contribuer**
+<h1 id="contribuer">🤝 Contribuer</h1>
 
 Les contributions sont les bienvenues ! Si tu souhaites améliorer ce projet, suis ces étapes :
 
@@ -143,19 +143,19 @@ Les contributions sont les bienvenues ! Si tu souhaites améliorer ce projet, su
 
 ---
 
-## 👤 **Auteurs**
+<h1 id="auteurs">👤 Auteurs</h1>
 
 - [Seny Toutou Diedhiou](https://setoudie.github.io)
 
 ---
 
-## 📜 **Licence**
+<h1 id="licence">📜 Licence</h1>
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
-## 🙏 **Remerciements**
+<h1 id="remerciements">🙏 Remerciements</h1>
 
 - Merci à l'équipe de **Genesis** pour leur incroyable plateforme.
 - Merci à **Cloudinary** pour leur service de stockage de médias.
@@ -163,7 +163,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ---
 
-## 🌐 **Live Example**
+<h1 id="live-example">🌐 Live Example</h1>
 
 Pour voir un exemple en direct, [clique ici](#).
 
