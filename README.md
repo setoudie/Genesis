@@ -6,6 +6,7 @@
 # **Sections 📚**
 
 - 📖 **[Genesis, c'est quoi ?](#genesis-cest-quoi)**  
+- 🧩 **[Installation](#installation)** 
 - 🎯 **[Objectif du projet](#objectif-du-projet)**  
 - 🛠️ **[Fonctionnalités](#fonctionnalites)**  
 - 🔧 **[Technologies utilisées](#technologies-utilisees)**  
@@ -39,6 +40,8 @@ Genesis est conçu pour **abaisser les barrières** de la simulation physique et
 
 ![genesis_overview.png](images/genesis_overview.png) 
 
+<h2 id="installation">🧩 Installation</h2>
+Consulter la documentation officielle [ici](https://genesis-world.readthedocs.io/en/latest/user_guide/overview/installation.html)
 ---
 
 <h1 id="objectif-du-projet">🎯 Objectif du projet</h1>
